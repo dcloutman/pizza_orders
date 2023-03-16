@@ -1,0 +1,11 @@
+module.exports = {
+    secret: "this_is_a_secret_key",
+    db: {
+        host: "localhost",
+        user: "root",
+        password: "",
+        database: "pizza_app"
+    }
+};
+
+
